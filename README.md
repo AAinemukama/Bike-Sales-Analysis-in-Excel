@@ -21,4 +21,4 @@ Categorized the Age field into distinct age groups for better analysis. For exam
 - Ages 61 and above were grouped as Late Adulthood
 This data preparation ensured consistency and facilitated more meaningful analysis in subsequent steps.
 ## To view the raw data, working sheet and pivot tables as well as the dashboard, please click the link 
-(https://github.com/AAinemukama/Portfolio-Projects/blob/main/Bike%20Sales-Portfolio%20Project%20with%20sheet%20tabs.xlsx)
+https://github.com/AAinemukama/Portfolio-Projects/blob/main/Bike%20Sales-Portfolio%20Project%20with%20sheet%20tabs.xlsx
