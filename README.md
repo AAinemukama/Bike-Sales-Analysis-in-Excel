@@ -1,2 +1,7 @@
-# Bike-Sales-Analysis-in-Excel
-This bike sales project uses Microsoft Excel to clean, standardize, and analyze data. The goal is to understand buyer demographics and identify which groups are more likely to purchase based on age, gender, and marital status. An interactive dashboard visualizes these insights for better market understanding.
+# Bike Sales Analysis Using Microsoft Excel
+## Project Description
+### Project Description
+In this bike sales project, Microsoft Excel was utilized to clean, standardize, and analyze the data. The primary goal was to provide a comprehensive overview of buyer demographics to better understand the target market. This involved identifying which groups are more likely to make purchases based on factors such as age, gender, and marital status. An interactive dashboard was then created to visualize the data and insights.
+## Key Features
+- Data cleaning and preprocessing
+- Creation of pivot tables and charts
